@@ -1,0 +1,101 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: Outfit;
+}
+
+.container {
+    background-color:hsl(216, 50%, 16%) ;
+    width: 275px;
+    height: 530px;
+    padding: 16px 24px 16px 24px;
+    border: 2px 2px 2px 2px;
+    border-radius: 15px;
+    box-shadow: 15px 15px 5px 5px rgba(4, 13, 32, 0.226);
+    margin: auto;
+    margin-top: 170px;
+}
+
+.image-equilibrium{
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-bottom:5px;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.equil {
+    justify-content: center;
+    display: flex;    
+    padding-top: -10px;
+    padding-bottom: 5px;
+}
+
+.descricao {
+    color: rgba(146, 177, 204, 0.795);
+    line-height: 25px;
+}
+
+h2 {
+    color: aqua;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+.etherum {
+    margin-right: 5px;
+}
+
+.time {
+    color: rgba(146, 177, 204, 0.795);
+    display: flex;
+    align-items: center;
+
+}
+
+.relogio {
+    margin-right: 5px;
+}
+
+.avatar {
+    width: 10%;
+    border: solid 2px white;
+    border-radius: 100%;
+    margin-right: 30px;
+
+}
+
+.foot {
+    position: relative;
+    display: flex;
+    align-items: center;
+    border-top: solid 1px rgba(146, 177, 204, 0.27);
+    padding-top: 20px;
+    color: rgba(146, 177, 204, 0.795);
+}
+
+.infos {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    align-items: center;
+
+}
+
+strong {
+    color: aliceblue;
+}
+
+.nome {
+    position: absolute;
+    left: 50px;
+}
